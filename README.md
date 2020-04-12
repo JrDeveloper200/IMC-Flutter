@@ -1,4 +1,4 @@
-# imc
+# Calculador IMC Flutter/Dart
 
 Calculadora de Indice de Massa Corporal
 
