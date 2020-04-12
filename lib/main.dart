@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 ///Método principal que inicia a aplicação
 void main() {
   runApp(MaterialApp(
+    title: "Calculadora IMC",
     debugShowCheckedModeBanner: false,
 
     ///O home é chamado pela extensao do método createState, e logo pelo seu Widget build
